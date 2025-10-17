@@ -23,6 +23,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
+<img width="751" height="548" alt="Screenshot 2025-10-17 222429" src="https://github.com/user-attachments/assets/15bab500-b8d0-4138-b775-35cb697261c2" />
+
 ```
 
 
@@ -34,6 +36,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ```
 
 ## Output
+<img width="1176" height="494" alt="Screenshot 2025-10-17 222447" src="https://github.com/user-attachments/assets/ff282242-b7b5-49c4-963b-897c71708ba0" />
+
 ```
 
 ```
